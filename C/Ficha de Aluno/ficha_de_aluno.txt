@@ -1,0 +1,6 @@
+Lari 788  2  5  6 
+Leo 102 10  9  8 
+leonardo 124 12 15 15 
+lucas 45 45 45  8 
+bruno 222 20 20 20 
+jorge 888 444 44 44 
